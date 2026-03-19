@@ -447,7 +447,7 @@ body.active { overflow: hidden; }
 
 .hero-text {
   font-size: var(--fs-10);
-  font-weight: var(--fw-500);
+  font-weight: var(--fw-300);
   text-transform: uppercase;
   letter-spacing: 5px;
 }
@@ -1922,7 +1922,7 @@ body.active { overflow: hidden; }
 
   .hero-text {
     --fs-10: 2rem;
-    font-weight: var(--fw-500);
+    font-weight: var(--fw-400);
     letter-spacing: 8px;
   }
 
